@@ -5,10 +5,11 @@ This is a mobile app project for SPC 2207 CAT ONE.
 It converts numbers between different number systems (binary, decimal, octal, hexadecimal, etc.).  
 
 ## Group Members & Roles
-- Njomo Richu Brian CT100/G/21746/24 – Project Manager, - QA & Documentation   
+- Njomo Richu Brian CT100/G/21746/24 – Project Manager,   
 - Isaac Julius Wainaina CT100/G/22432/24 – UI/UX Designer  
 - Simon Maina CT100/G/22403/24 – Frontend Developer  
-- Frankline Kimathi CT100/G/22026/24 – Algorithm/Logic Developer  
+- Frankline Kimathi CT100/G/22026/24 – Algorithm/Logic Developer
+- Albert Muema Mutio - QA & Documentation   
  
 
 (Lecturer has been added as a GitHub collaborator.)
