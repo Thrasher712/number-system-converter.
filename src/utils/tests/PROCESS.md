@@ -1,11 +1,11 @@
 # Process Documentation – Number System Converter
 
 ## Group Members & Roles
-Njomo Richu Brian CT100/G/21746/24 – Project Manager,
-Isaac Julius Wainaina CT100/G/22432/24 – UI/UX Designer
-Simon Maina CT100/G/22403/24 – Frontend Developer
-Frankline Kimathi CT100/G/22026/24 – Algorithm/Logic Developer
-Albert Muema Mutio CT100/G/9488/20 - QA & Documentation
+- Njomo Richu Brian CT100/G/21746/24 – Project Manager,
+- Isaac Julius Wainaina CT100/G/22432/24 – UI/UX Designer
+- Simon Maina CT100/G/22403/24 – Frontend Developer
+- Frankline Kimathi CT100/G/22026/24 – Algorithm/Logic Developer
+- Albert Muema Mutio CT100/G/9488/20 - QA & Documentation
 
 ## Meetings Log
 - **Week 1, Day 1:** Project kickoff, assigned roles, created GitHub repo, added lecturer as collaborator.  
